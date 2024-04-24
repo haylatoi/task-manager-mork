@@ -104,7 +104,7 @@ const Header = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            Task Manager with React and TypeScript
+            Task Manager
           </Typography>
         </Toolbar>
       </AppBar>
